@@ -1,0 +1,7 @@
+﻿  Calcu-Train v0.2.cpp
+C:\Users\hassa\OneDrive\Desktop\Calcu-Train v0.2\Calcu-Train v0.2\Calcu-Train v0.2.cpp(14,9): warning C4101: 'results': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 109 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Calcu-Train v0.2.vcxproj -> C:\Users\hassa\OneDrive\Desktop\Calcu-Train v0.2\x64\Release\Calcu-Train v0.2.exe
