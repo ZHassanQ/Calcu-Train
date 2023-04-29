@@ -1,0 +1,4 @@
+﻿  Calcu-Train v0.4.cpp
+C:\Users\hassa\OneDrive\Desktop\Calcu-Train v0.4\Calcu-Train v0.4\Calcu-Train v0.4.cpp(14,9): warning C4101: 'results': unreferenced local variable
+  LINK : C:\Users\hassa\OneDrive\Desktop\Calcu-Train v0.4\x64\Debug\Calcu-Train v0.4.exe not found or not built by the last incremental link; performing full link
+  Calcu-Train v0.4.vcxproj -> C:\Users\hassa\OneDrive\Desktop\Calcu-Train v0.4\x64\Debug\Calcu-Train v0.4.exe
